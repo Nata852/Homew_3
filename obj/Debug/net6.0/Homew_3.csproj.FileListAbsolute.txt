@@ -1,0 +1,15 @@
+D:\Homework\Homew_3\obj\Debug\net6.0\Homew_3.csproj.AssemblyReference.cache
+D:\Homework\Homew_3\obj\Debug\net6.0\Homew_3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Homework\Homew_3\obj\Debug\net6.0\Homew_3.AssemblyInfoInputs.cache
+D:\Homework\Homew_3\obj\Debug\net6.0\Homew_3.AssemblyInfo.cs
+D:\Homework\Homew_3\obj\Debug\net6.0\Homew_3.csproj.CoreCompileInputs.cache
+D:\Homework\Homew_3\bin\Debug\net6.0\Homew_3.exe
+D:\Homework\Homew_3\bin\Debug\net6.0\Homew_3.deps.json
+D:\Homework\Homew_3\bin\Debug\net6.0\Homew_3.runtimeconfig.json
+D:\Homework\Homew_3\bin\Debug\net6.0\Homew_3.dll
+D:\Homework\Homew_3\bin\Debug\net6.0\Homew_3.pdb
+D:\Homework\Homew_3\obj\Debug\net6.0\Homew_3.dll
+D:\Homework\Homew_3\obj\Debug\net6.0\refint\Homew_3.dll
+D:\Homework\Homew_3\obj\Debug\net6.0\Homew_3.pdb
+D:\Homework\Homew_3\obj\Debug\net6.0\Homew_3.genruntimeconfig.cache
+D:\Homework\Homew_3\obj\Debug\net6.0\ref\Homew_3.dll
